@@ -1,0 +1,34 @@
+Sunitha Jammu
+Software Engineering | AI Engineering | Generative AI | Agentic AI
+Hyderabad and Visakhapatnam, India | +91 7815843920 | sunithajammu19@gmail.com
+LinkedIn: https://www.linkedin.com/in/sunitha-jammu-/
+LeetCode: https://leetcode.com/u/Jammu-sunitha/
+GitHub: https://github.com/sunithajammu
+
+PROFILE
+AI engineer focused on building practical generative AI applications, autonomous agents,
+multi-agent workflows, and enterprise retrieval-augmented generation systems.
+Replace this summary with an accurate introduction to your experience and goals.
+
+TECHNICAL SKILLS
+AI: Azure OpenAI, Azure AI Foundry, LLMs, prompt engineering, AI agents, multi-agent systems
+Programming: Python, C#, JavaScript
+RAG & data: RAG, embeddings, vector databases, Azure AI Search
+Backend: REST APIs, microservices, FastAPI, ASP.NET Core
+Cloud & tools: Microsoft Azure, Git, GitHub, Docker
+
+EXPERIENCE
+[Job title] | [Company name] | [Start date - End date]
+- [Add a responsibility or contribution]
+- [Add a verified achievement and its impact]
+- Technologies: [Add technologies used]
+
+PROJECTS
+[Replace these sample concepts with projects you have actually built]
+- Enterprise RAG Chatbot: document ingestion, embeddings, vector search, and grounded answers.
+- Multi-Agent AI System: specialized agents, orchestration, task delegation, and tool calling.
+- AI Customer Support Assistant: customer context retrieval and REST API integrations.
+- AI Document Intelligence: document extraction, semantic search, and question answering.
+
+EDUCATION & CERTIFICATIONS
+[Add academic qualifications, completed courses, and verified certifications]
